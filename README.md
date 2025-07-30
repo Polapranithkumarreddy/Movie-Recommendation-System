@@ -9,7 +9,7 @@ is sleek and modern, enhanced with hover effects and a movie overview overlay. T
 demonstrates API integration, dynamic DOM manipulation, asynchronous JavaScript (using fetch and
 async/await), and a responsive frontend UI with a clean layout. It's a beginner-friendly yet
 feature-rich project suitable for showcasing skills in web development, API handling, and UI/UX
-design. [Live Demo](https://polapranithkumarreddy.github.io/Movie-Recommendation-System/)
+design. 🔗 [Live Demo](https://polapranithkumarreddy.github.io/Movie-Recommendation-System/)
 
 Project Features and Description:
 
