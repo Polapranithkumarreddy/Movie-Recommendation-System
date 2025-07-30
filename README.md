@@ -1,4 +1,4 @@
-# Movie-Recommendation-System https://polapranithkumarreddy.github.io/Movie-Recommendation-System/
+# Movie-Recommendation-System 
 This is a responsive and interactive Movie Recommendation System built using HTML, CSS, and
 JavaScript, which utilizes the TMDb (The Movie Database) API to fetch and display popular movies
 and real-time search results. The system initially loads trending movies based on popularity and
@@ -9,7 +9,7 @@ is sleek and modern, enhanced with hover effects and a movie overview overlay. T
 demonstrates API integration, dynamic DOM manipulation, asynchronous JavaScript (using fetch and
 async/await), and a responsive frontend UI with a clean layout. It's a beginner-friendly yet
 feature-rich project suitable for showcasing skills in web development, API handling, and UI/UX
-design.
+design. [Live Demo](https://polapranithkumarreddy.github.io/Movie-Recommendation-System/)
 
 Project Features and Description:
 
